@@ -1,0 +1,5 @@
+Apache Maven 2.2.1 (r801777; 2009-08-07 00:46:01+0530)
+Java version: 1.6.0_17
+Java home: C:\Program Files\Java\jdk1.6.0_17\jre
+Default locale: en_US, platform encoding: Cp1252
+OS name: "windows xp" version: "5.1" arch: "x86" Family: "windows"
