@@ -9,7 +9,7 @@ public class FileUtil {
 	public static String getFileContent(String fileName) throws IOException {
 		StringBuffer sb = new StringBuffer();
 		BufferedReader br = new BufferedReader(new FileReader(fileName));
-		String s = br.readLine();
+		String s = null;
 		while ((s = br.readLine()) != null) {
 			sb.append(s).append("\n");
 		}
